@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Banana Controller</title>
+    <style type="text/css">
+      #canvas {
+        -moz-transform: scaleX(-1);
+        -o-transform: scaleX(-1);
+        -webkit-transform: scaleX(-1);
+        transform: scaleX(-1);
+        filter: FlipH;
+        -ms-filter: "FlipH";
+      }
+    </style>
+  </head>
+  <body>
+    <video id="video" playsinline autoplay style="display: none"></video>
+    <canvas id="canvas" width="640" height="360"></canvas>
+    <script type="text/javascript" src="webcam.js"></script>
+    <script type="text/javascript" src="platano.js"></script>
+    <script
+      src="https://code.jquery.com/jquery-3.6.4.min.js"
+      integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8="
+      crossorigin="anonymous"
+    ></script>
+    <script type="text/javascript">
+      window.onload = function () {
+        mostrarCamara();
+      };
+    </script>
+  </body>
+</html>

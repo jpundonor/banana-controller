@@ -1,0 +1,8 @@
+C:\Users\rtryn\OneDrive\Desktop\BananaController\net\NetApp\bin\Debug\NetApp.exe.config
+C:\Users\rtryn\OneDrive\Desktop\BananaController\net\NetApp\bin\Debug\NetApp.exe
+C:\Users\rtryn\OneDrive\Desktop\BananaController\net\NetApp\bin\Debug\NetApp.pdb
+C:\Users\rtryn\OneDrive\Desktop\BananaController\net\NetApp\obj\Debug\NetApp.csproj.AssemblyReference.cache
+C:\Users\rtryn\OneDrive\Desktop\BananaController\net\NetApp\obj\Debug\NetApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\rtryn\OneDrive\Desktop\BananaController\net\NetApp\obj\Debug\NetApp.csproj.CoreCompileInputs.cache
+C:\Users\rtryn\OneDrive\Desktop\BananaController\net\NetApp\obj\Debug\NetApp.exe
+C:\Users\rtryn\OneDrive\Desktop\BananaController\net\NetApp\obj\Debug\NetApp.pdb
